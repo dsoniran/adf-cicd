@@ -1,0 +1,9 @@
+{
+	"name": "data-flow-tutorial",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "176b51d4-e4de-4edb-bc03-7a8ccb501c7c",
+		"tenantId": "33d8b1d0-4d54-4a76-ab9a-708d2d217fd9"
+	}
+}
